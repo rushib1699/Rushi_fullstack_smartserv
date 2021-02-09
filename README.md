@@ -1,5 +1,5 @@
 # Google Homepage Clone
-## *Rushikesh Bedagkar*
+# Rushikesh Bedagkar
 
 ## Technologies Used
 
